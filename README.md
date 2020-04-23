@@ -14,8 +14,9 @@
   <li> AR Departmental Information Retreival</li>
   <li>AR Navigation</li>
 </ul></p>
-
-<img src="Home Page.png" alt="homepage" width="200"/>
+<p>
+  Home Page
+<img src="https://github.com/thewall27/SVIT-AR-CAMPUS-1/blob/master/Images/Home%20PAGE.jpg" alt="homepage" width="200"/>
 
 <p>In module of AR food menu we have list of food items available in our college canteen, These food items can be augmented to any detected plane using user's device. User will able to see visuals of that particular food item with its price tag.
 
