@@ -1,7 +1,9 @@
 <h1><b>SVIT-AR-CAMPUS</b></h1>
 <p><b> An Augmented reality based exploration application for Sardar Vallabhbhai Patel Institute of Technology</b><p>
+<p> <b>Platform:</b> Only for Android</p>
+ <p> <b>Software Used:</b> Unity 3D, Vuforia SDK, Blender</p>
 
-<p>Team Members:
+<p><b>Team Members</b>:
   <ul>
    <li><a href="https://github.com/urvish19">Urvish Gajjar</a></li>
    <li> Dhaval Limbachiya</li>
