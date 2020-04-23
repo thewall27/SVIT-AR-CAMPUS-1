@@ -14,10 +14,11 @@
   <li> AR Departmental Information Retreival</li>
   <li>AR Navigation</li>
 </ul></p>
+<p>Home Pages</p>
 <p>
-  Home Page
 <img src="https://github.com/thewall27/SVIT-AR-CAMPUS-1/blob/master/Images/Home%20PAGE.jpg" alt="homepage" width="200"/>
-
+ <img src="https://github.com/thewall27/SVIT-AR-CAMPUS-1/blob/master/Images/Instructions.jpg" alt="Instruction" width="200"/>
+</p>
 <p>In module of AR food menu we have list of food items available in our college canteen, These food items can be augmented to any detected plane using user's device. User will able to see visuals of that particular food item with its price tag.
 
 In AR Navigation, Using GPS coordinates user can navigate our college premise with help of AR 3D object(i.e. UFO) to guide user. User can select desire POI(Point Of Interest) and navigate around college premises.
